@@ -8,7 +8,7 @@
 
 https://user-images.githubusercontent.com/106676849/201481876-50f66999-c2f1-4db1-81d3-8313f49dc56f.mp4
 
-  ## Tech Stack - Python,Tableau.
+  ## Tech Stack - Python.
   
 ## Libraries used - Pandas,gspread,yfinance
 </div>
